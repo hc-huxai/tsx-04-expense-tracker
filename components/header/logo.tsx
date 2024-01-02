@@ -17,6 +17,7 @@ export const Logo = () => {
           "h-12 w-fit object-contain cursor-pointer",
           "dark:brightness-100 dark:contrast-200 dark:invert"
         )}
+        priority
       />
     </Link>
   );
